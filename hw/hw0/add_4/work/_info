@@ -1,0 +1,127 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/User/OneDrive/орн▒/add_4
+vadd_4
+Z0 !s110 1730214233
+!i10b 1
+!s100 EN`[SK1gR3V:lgZ1@=`fF1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I:FdNOQ6RUBgWdkWOO]Gz`3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/User/Desktop/add_4
+w1730196971
+8C:/Users/User/Desktop/add_4/add_4.v
+FC:/Users/User/Desktop/add_4/add_4.v
+!i122 12
+L0 1 12
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1730214233.000000
+!s107 C:/Users/User/Desktop/add_4/add_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/add_4/add_4.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vadd_4_tb
+R0
+!i10b 1
+!s100 UB=Of[P1oRlhW>lL;8UHC0
+R1
+IJGTB5lVjXXzLL9S2;3V1Z0
+R2
+R3
+w1730197195
+8C:/Users/User/Desktop/add_4/add_4_tb.v
+FC:/Users/User/Desktop/add_4/add_4_tb.v
+!i122 13
+L0 1 25
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/add_4/add_4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/add_4/add_4_tb.v|
+!i113 1
+R6
+R7
+Xadd_4_v_unit
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1730196892
+VO5c:[Q[>3?c]90>5Zb4cG3
+r1
+!s85 0
+!i10b 1
+!s100 8Njj;5kVGEXTDZ82<bR;U2
+IO5c:[Q[>3?c]90>5Zb4cG3
+!i103 1
+S1
+R3
+w1730196803
+8add_4.v
+Fadd_4.v
+!i122 1
+L0 12 0
+R4
+31
+!s108 1730196892.000000
+!s107 add_half.v|add_full.v|add_4_tb.v|add_4.v|
+!s90 -reportprogress|300|add_4.v|add_4_tb.v|add_full.v|add_half.v|
+!i113 1
+R7
+vadd_full
+Z8 !s110 1730214234
+!i10b 1
+!s100 KA5GU5N5oUz:La^2E>:i_2
+R1
+I@ZBIS;33>z5l5WClGYZ0b0
+R2
+R3
+w1730185765
+8C:/Users/User/Desktop/add_4/add_full.v
+FC:/Users/User/Desktop/add_4/add_full.v
+!i122 14
+L0 1 11
+R4
+r1
+!s85 0
+31
+Z9 !s108 1730214234.000000
+!s107 C:/Users/User/Desktop/add_4/add_full.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/add_4/add_full.v|
+!i113 1
+R6
+R7
+vadd_half
+R8
+!i10b 1
+!s100 ]W4B[2`IdDZKX5E4@?Q1l0
+R1
+I4eO:`F[elGKj;Nki8=4fL1
+R2
+R3
+w1730188817
+8C:/Users/User/Desktop/add_4/add_half.v
+FC:/Users/User/Desktop/add_4/add_half.v
+!i122 15
+L0 1 9
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/User/Desktop/add_4/add_half.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/add_4/add_half.v|
+!i113 1
+R6
+R7

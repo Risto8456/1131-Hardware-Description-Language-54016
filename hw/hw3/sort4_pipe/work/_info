@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/User/Desktop/simulation/alu
+vregister_8bit
+Z0 !s110 1734860372
+!i10b 1
+!s100 ?e0z[mgg0Ie3oT:THAIom1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9@ziCgo>eT<l0]adkYe_S0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/User/Desktop/simulation/sort4_pipe
+w1734860219
+8C:/Users/User/Desktop/simulation/sort4_pipe/register_8bit.v
+FC:/Users/User/Desktop/simulation/sort4_pipe/register_8bit.v
+!i122 19
+L0 1 17
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1734860372.000000
+!s107 C:/Users/User/Desktop/simulation/sort4_pipe/register_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort4_pipe/register_8bit.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vsort2
+R0
+!i10b 1
+!s100 `g`E9>T@;bCZh?LBbe?^]0
+R1
+IVgMgl>RaJ`CiQnh^64:B`2
+R2
+R3
+w1730252213
+8C:/Users/User/Desktop/simulation/sort4_pipe/sort2.v
+FC:/Users/User/Desktop/simulation/sort4_pipe/sort2.v
+!i122 20
+L0 1 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/simulation/sort4_pipe/sort2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort4_pipe/sort2.v|
+!i113 1
+R6
+R7
+vsort4_pipe
+R0
+!i10b 1
+!s100 SP0[W5JMgOLnU<P`TUl_]1
+R1
+InaDY=JB4U0jC<a``m5lL30
+R2
+R3
+w1734859803
+8C:/Users/User/Desktop/simulation/sort4_pipe/sort4_pipe.v
+FC:/Users/User/Desktop/simulation/sort4_pipe/sort4_pipe.v
+!i122 21
+L0 1 41
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/simulation/sort4_pipe/sort4_pipe.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort4_pipe/sort4_pipe.v|
+!i113 1
+R6
+R7
+vsort4_pipe_tb
+R0
+!i10b 1
+!s100 <8]AGdnP6HMMQE@jR@=dA2
+R1
+I^];lE_XzEF^NQTZEi1KfL0
+R2
+R3
+w1734860369
+8C:\Users\User\Desktop\simulation\sort4_pipe\sort4_pipe_tb.v
+FC:\Users\User\Desktop\simulation\sort4_pipe\sort4_pipe_tb.v
+!i122 22
+L0 3 45
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\User\Desktop\simulation\sort4_pipe\sort4_pipe_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\User\Desktop\simulation\sort4_pipe\sort4_pipe_tb.v|
+!i113 1
+R6
+R7

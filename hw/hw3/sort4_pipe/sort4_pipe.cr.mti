@@ -1,0 +1,29 @@
+C:/Users/User/Desktop/simulation/sort4_pipe/sort4_pipe.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/simulation/sort4_pipe/sort4_pipe.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sort4_pipe
+
+Top level modules:
+	sort4_pipe
+
+} {} {}} C:/Users/User/Desktop/simulation/sort4_pipe/sort4_pipe_tb.v {1 {vlog -work work -stats=none {C:\Users\User\Desktop\simulation\sort4_pipe\sort4_pipe_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sort4_pipe_tb
+
+Top level modules:
+	sort4_pipe_tb
+
+} {} {}} C:/Users/User/Desktop/simulation/sort4_pipe/sort2.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/simulation/sort4_pipe/sort2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sort2
+
+Top level modules:
+	sort2
+
+} {} {}} C:/Users/User/Desktop/simulation/sort4_pipe/register_8bit.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/simulation/sort4_pipe/register_8bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register_8bit
+
+Top level modules:
+	register_8bit
+
+} {} {}}

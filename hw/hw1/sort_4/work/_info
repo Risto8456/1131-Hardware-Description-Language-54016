@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1/modelsim_ase/win32aloem
+vsort2
+!s110 1730253082
+!i10b 1
+!s100 `g`E9>T@;bCZh?LBbe?^]0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`UJD[IJl]]6IOzaM@2ECd0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/User/Desktop/simulation/sort_4
+w1730252213
+8C:/Users/User/Desktop/simulation/sort_4/sort2.v
+FC:/Users/User/Desktop/simulation/sort_4/sort2.v
+!i122 17
+L0 1 9
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1730253082.000000
+!s107 C:/Users/User/Desktop/simulation/sort_4/sort2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort_4/sort2.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vsort4
+Z6 !s110 1730253083
+!i10b 1
+!s100 XTN4XQmHkR13>324?JUNR2
+R0
+Iezbm;O4JckNzT5>KEOKMZ2
+R1
+R2
+w1730252894
+8C:/Users/User/Desktop/simulation/sort_4/sort4.v
+FC:/Users/User/Desktop/simulation/sort_4/sort4.v
+!i122 18
+L0 1 12
+R3
+r1
+!s85 0
+31
+Z7 !s108 1730253083.000000
+!s107 C:/Users/User/Desktop/simulation/sort_4/sort4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort_4/sort4.v|
+!i113 1
+R4
+R5
+vsort4_tb
+R6
+!i10b 1
+!s100 RZ0JIV1@WWfB^F1EkbYi^0
+R0
+I2UDHl:cQ5]S5zhRZA9H>11
+R1
+R2
+w1730252996
+8C:/Users/User/Desktop/simulation/sort_4/sort4_tb.v
+FC:/Users/User/Desktop/simulation/sort_4/sort4_tb.v
+!i122 19
+L0 1 22
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/User/Desktop/simulation/sort_4/sort4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort_4/sort4_tb.v|
+!i113 1
+R4
+R5

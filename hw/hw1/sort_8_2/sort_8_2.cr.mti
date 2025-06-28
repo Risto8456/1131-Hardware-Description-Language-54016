@@ -1,0 +1,29 @@
+C:/Users/User/Desktop/simulation/sort_8_2/sort8_tb.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/simulation/sort_8_2/sort8_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sort8_tb
+
+Top level modules:
+	sort8_tb
+
+} {} {}} C:/Users/User/Desktop/simulation/sort_8_2/sort2.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/simulation/sort_8_2/sort2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sort2
+
+Top level modules:
+	sort2
+
+} {} {}} C:/Users/User/Desktop/simulation/sort_8_2/sort8.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/simulation/sort_8_2/sort8.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sort8
+
+Top level modules:
+	sort8
+
+} {} {}} C:/Users/User/Desktop/simulation/sort_8_2/sort4.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/simulation/sort_8_2/sort4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sort4
+
+Top level modules:
+	sort4
+
+} {} {}}

@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/User/Desktop/simulation/sort_4
+vsort2
+Z0 !s110 1730294362
+!i10b 1
+!s100 `g`E9>T@;bCZh?LBbe?^]0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=:A<X3K5`a8kZE28^jIA:2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/User/Desktop/simulation/sort_8_2
+w1730252213
+8C:/Users/User/Desktop/simulation/sort_8_2/sort2.v
+FC:/Users/User/Desktop/simulation/sort_8_2/sort2.v
+!i122 11
+L0 1 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1730294362.000000
+!s107 C:/Users/User/Desktop/simulation/sort_8_2/sort2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort_8_2/sort2.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vsort4
+R0
+!i10b 1
+!s100 TmQP;;OooDb]IP2A]JWJh2
+R1
+IkdG0:iF2ZMHZIhdI=hYK70
+R2
+R3
+w1730254925
+8C:/Users/User/Desktop/simulation/sort_8_2/sort4.v
+FC:/Users/User/Desktop/simulation/sort_8_2/sort4.v
+!i122 12
+L0 1 11
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/simulation/sort_8_2/sort4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort_8_2/sort4.v|
+!i113 1
+R6
+R7
+vsort8
+R0
+!i10b 1
+!s100 kGTzizA0zIgLZH]nV_6A;3
+R1
+I<ZR:c8@nMeRjS?Jkb[WZL0
+R2
+R3
+w1730293385
+8C:/Users/User/Desktop/simulation/sort_8_2/sort8.v
+FC:/Users/User/Desktop/simulation/sort_8_2/sort8.v
+!i122 13
+L0 1 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/simulation/sort_8_2/sort8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort_8_2/sort8.v|
+!i113 1
+R6
+R7
+vsort8_tb
+R0
+!i10b 1
+!s100 XYj2oZc@M5hC`0e_WfmNk1
+R1
+IQORUNnLR;;HaGXiYI[H4h1
+R2
+R3
+w1730258608
+8C:/Users/User/Desktop/simulation/sort_8_2/sort8_tb.v
+FC:/Users/User/Desktop/simulation/sort_8_2/sort8_tb.v
+!i122 14
+L0 1 22
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/simulation/sort_8_2/sort8_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/simulation/sort_8_2/sort8_tb.v|
+!i113 1
+R6
+R7

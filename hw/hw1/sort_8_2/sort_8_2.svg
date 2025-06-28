@@ -1,0 +1,183 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#ffffff" height="280" id="ra3" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="800" x="0" y="130"/>
+  <g id="s_14">
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_160" text-anchor="middle" x="20" y="150">x0</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_159" text-anchor="middle" x="20" y="170">x1</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_158" text-anchor="middle" x="20" y="190">x2</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_157" text-anchor="middle" x="20" y="210">x3</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_156" text-anchor="middle" x="20" y="310">x4</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_155" text-anchor="middle" x="20" y="330">x5</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_154" text-anchor="middle" x="20" y="350">x6</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_153" text-anchor="middle" x="20" y="370">x7</text>
+   <g id="s_133">
+    <g id="s_138">
+     <polyline fill="none" id="s_145" points="50,190 30,190 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+     <polyline fill="none" id="s_144" points="50,210 30,210 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+     <polyline fill="none" id="s_143" points="50,150 30,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+     <polyline fill="none" id="s_142" points="50,170 30,170 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+     <g id="s_139">
+      <rect fill="#ffffff" height="80" id="s_141" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="80" x="50" y="140"/>
+      <text fill="#000000" font-family="Serif" font-size="15" id="s_140" text-anchor="middle" x="90" y="180">sort_4</text>
+     </g>
+    </g>
+    <polyline fill="none" id="s_137" points="130,150 150,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="s_136" points="130,170 150,170 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="s_135" points="150,190 130,190 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="s_134" points="130,210 150,210 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="s_120">
+    <g id="s_125">
+     <polyline fill="none" id="s_132" points="50,350 30,350 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+     <polyline fill="none" id="s_131" points="50,370 30,370 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+     <polyline fill="none" id="s_130" points="50,310 30,310 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+     <polyline fill="none" id="s_129" points="50,330 30,330 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+     <g id="s_126">
+      <rect fill="#ffffff" height="80" id="s_128" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="80" x="50" y="300"/>
+      <text fill="#000000" font-family="Serif" font-size="15" id="s_127" text-anchor="middle" x="90" y="340">sort_4</text>
+     </g>
+    </g>
+    <polyline fill="none" id="s_124" points="130,310 150,310 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="s_123" points="130,330 150,330 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="s_122" points="150,350 130,350 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="s_121" points="130,370 150,370 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_115" text-anchor="middle" x="160" y="150">a0</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_114" text-anchor="middle" x="160" y="170">a1</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_113" text-anchor="middle" x="160" y="190">a2</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_112" text-anchor="middle" x="160" y="210">a3</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_111" text-anchor="middle" x="160" y="370">b3</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_110" text-anchor="middle" x="160" y="350">b2</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_109" text-anchor="middle" x="160" y="330">b1</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_108" text-anchor="middle" x="160" y="310">b0</text>
+   <rect fill="#ffffff" height="40" id="ra1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="60" x="240" y="140"/>
+   <polyline fill="none" id="Li1" points="230,150 240,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li2" points="230,170 240,170 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="t2" text-anchor="middle" x="490" y="150">y0</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="t3" text-anchor="middle" x="340" y="170">c0</text>
+   <polyline fill="none" id="Li5" points="300,150 330,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_9" points="300,170 330,170 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li6" points="320,140 320,190 330,180 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li7" points="320,190 310,180 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="t4" text-anchor="middle" x="270" y="163">sort_2</text>
+   <rect fill="#ffffff" height="40" id="s_19" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="60" x="240" y="200"/>
+   <polyline fill="none" id="s_20" points="230,210 240,210 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_21" points="230,230 240,230 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_22" text-anchor="middle" x="340" y="210">c1</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_23" text-anchor="middle" x="490" y="230">d1</text>
+   <polyline fill="none" id="s_24" points="300,210 330,210 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_25" points="300,230 330,230 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_26" points="320,200 320,250 330,240 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_27" points="320,250 310,240 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_28" text-anchor="middle" x="270" y="223">sort_2</text>
+   <rect fill="#ffffff" height="40" id="s_30" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="60" x="390" y="170"/>
+   <polyline fill="none" id="s_31" points="380,180 390,180 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_32" points="380,200 390,200 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_33" text-anchor="middle" x="490" y="180">y1</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_34" text-anchor="middle" x="490" y="200">d0</text>
+   <polyline fill="none" id="s_35" points="450,180 480,180 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_36" points="450,200 480,200 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_37" points="470,170 470,220 480,210 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_38" points="470,220 460,210 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_39" text-anchor="middle" x="420" y="193">sort_2</text>
+   <rect fill="#ffffff" height="40" id="s_41" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="60" x="390" y="310"/>
+   <polyline fill="none" id="s_42" points="380,320 390,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_43" points="380,340 390,340 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_44" text-anchor="middle" x="490" y="320">d3</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_45" text-anchor="middle" x="490" y="340">y6</text>
+   <polyline fill="none" id="s_46" points="450,320 480,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_47" points="450,340 480,340 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_48" points="470,310 470,360 480,350 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_49" points="470,360 460,350 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_50" text-anchor="middle" x="420" y="333">sort_2</text>
+   <rect fill="#ffffff" height="40" id="s_52" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="60" x="240" y="340"/>
+   <polyline fill="none" id="s_53" points="230,350 240,350 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_54" points="230,370 240,370 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_55" text-anchor="middle" x="340" y="350">c3</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_56" text-anchor="middle" x="490" y="370">y7</text>
+   <polyline fill="none" id="s_57" points="300,350 330,350 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_58" points="300,370 330,370 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_59" points="320,340 320,390 330,380 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_60" points="320,390 310,380 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_61" text-anchor="middle" x="270" y="363">sort_2</text>
+   <rect fill="#ffffff" height="40" id="s_63" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="60" x="240" y="280"/>
+   <polyline fill="none" id="s_64" points="230,290 240,290 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_65" points="230,310 240,310 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_66" text-anchor="middle" x="490" y="290">d2</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_67" text-anchor="middle" x="340" y="310">c2</text>
+   <polyline fill="none" id="s_68" points="300,290 330,290 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_69" points="300,310 330,310 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_70" points="320,280 320,330 330,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_71" points="320,330 310,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_72" text-anchor="middle" x="270" y="303">sort_2</text>
+   <rect fill="#ffffff" height="40" id="s_2" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="60" x="690" y="240"/>
+   <polyline fill="none" id="s_3" points="680,250 690,250 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_4" points="680,270 690,270 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_16" text-anchor="middle" x="720" y="263">sort_2</text>
+   <rect fill="#ffffff" height="40" id="s_74" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="60" x="550" y="290"/>
+   <polyline fill="none" id="s_75" points="540,300 550,300 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_76" points="540,320 550,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_83" text-anchor="middle" x="580" y="313">sort_2</text>
+   <rect fill="#ffffff" height="40" id="s_85" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" width="60" x="550" y="190"/>
+   <polyline fill="none" id="s_86" points="540,200 550,200 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_87" points="540,220 550,220 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_88" text-anchor="middle" x="780" y="200">y2</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_89" text-anchor="middle" x="640" y="220">e0</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_94" text-anchor="middle" x="580" y="213">sort_2</text>
+   <polyline fill="none" id="Li16" points="340,150 480,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li17" points="340,230 480,230 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <g id="s_5">
+    <polyline fill="none" id="Li27" points="140,140 140,240 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="Li28" points="150,230 140,240 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="Li29" points="140,240 130,230 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <g id="s_6">
+    <polyline fill="none" id="s_7" points="140,300 140,400 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="s_8" points="150,390 140,400 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <polyline fill="none" id="s_17" points="140,400 130,390 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   </g>
+   <polyline fill="none" id="Li33" points="190,370 230,370 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li35" points="190,150 230,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li45" points="330,150 340,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li46" points="350,230 330,230 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li49" points="330,290 480,290 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li50" points="330,370 480,370 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li53" points="520,200 540,200 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li56" points="520,320 540,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li57" points="620,190 620,250 610,240 620,250 630,240 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li58" points="610,200 620,200 630,200 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li59" points="610,220 630,220 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_18" points="610,320 630,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_29" points="610,300 620,300 630,300 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_40" points="620,290 620,350 610,340 620,350 630,340 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_51" text-anchor="middle" x="780" y="320">y5</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_62" text-anchor="middle" x="640" y="300">e1</text>
+   <polyline fill="none" id="s_1" points="750,270 770,270 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_10" points="750,250 760,250 770,250 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="s_11" points="760,240 760,300 750,290 760,300 770,290 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_12" text-anchor="middle" x="780" y="270">y4</text>
+   <text fill="#000000" font-family="Serif" font-size="15" id="s_13" text-anchor="middle" x="780" y="250">y3</text>
+   <polyline fill="none" id="Li63" points="630,320 770,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li64" points="630,200 770,200 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li66" points="170,170 180,170 230,210 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li67" points="170,150 190,150 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li68" points="170,190 180,190 230,290 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li69" points="170,210 180,210 230,350 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li70" points="170,310 180,310 230,170 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li71" points="170,330 180,330 230,230 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li72" points="170,350 180,350 230,310 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li73" points="170,370 190,370 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li74" points="350,170 360,170 380,180 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li75" points="350,210 360,210 380,200 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li76" points="350,310 360,310 380,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li77" points="350,350 360,350 380,340 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li79" points="500,200 520,200 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li80" points="500,320 520,320 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li81" points="500,230 510,230 540,300 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li82" points="500,290 510,290 540,220 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li83" points="650,220 660,220 680,250 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+   <polyline fill="none" id="Li84" points="650,300 660,300 680,270 " stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+ </g>
+</svg>
